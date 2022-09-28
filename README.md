@@ -7,7 +7,7 @@ You only need Python installed in your system.
 
 - Usage: 
 
-Run 'binaryconv.py' and you are set!
+Run `binaryconv.py` and you are set!
 
 - Features:
 
@@ -18,7 +18,7 @@ In this script you can convert Binary code to (Hex - Decimal - Octal) and Vice V
 This script was made in only 40 min max.. O.O
 
 - ScreenShots:
-'Made by paint ;)'
+`Made by paint ;)`
 
 ![Capture](https://user-images.githubusercontent.com/59410756/192859678-fbe4e225-16a4-48ae-ad41-b7eca1bff9d1.PNG)
 
