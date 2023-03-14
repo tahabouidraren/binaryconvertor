@@ -28,4 +28,4 @@ This script was made in only 40 min max.. O.O
 
 Enjoy!
 
-Signed : @ts._.taha
+Signed : @tahabouidraren
