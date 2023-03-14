@@ -1,5 +1,5 @@
 print("********************************************")
-print("* All copyrights belong to @ts._.taha in IG*")
+print("* All copyrights belong to @tahabouidraren in IG*")
 print("********************************************")
 print("If you want to convert From (Binary) to (Hex) Type (BH)")
 print("If you want to convert From (Hex) to (Binary) Type (HB)")
@@ -74,5 +74,5 @@ if choice == "BO":
 if choice == "OB":
     OctToBin()
 print("********************************************")
-print("* All copyrights belong to @ts._.taha in IG*")
+print("* All copyrights belong to @tahabouidraren in IG*")
 print("********************************************")
